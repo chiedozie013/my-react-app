@@ -1,0 +1,11 @@
+.App {
+  padding: 20px;
+}
+
+.button {
+  background-color: rgb(221, 221, 233);
+  padding: 5px 20px;
+  border-radius: 5px;
+  color: blue;
+  cursor: pointer;
+}
